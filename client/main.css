@@ -1,0 +1,66 @@
+/* CSS declarations go here */
+
+
+.title{
+
+color: #EE6363;
+
+}
+
+.usertitle{
+
+margin-left: 22.5%;
+display: block;
+
+color: #CD5C5C;
+font-size: 20px;
+
+
+}
+
+
+.box{
+
+margin-left: 22.5%;
+
+
+}
+
+.box input{
+
+width: 30%;
+height: 40px;
+
+}
+
+.box button{
+
+width: 80px;
+height: 40px;
+margin-left: 20px;
+
+}
+
+.textbox{
+
+margin-left: 20%;
+height: 50px;
+width: 60%;
+background-color: #ADD8E6;
+list-style-type: none;
+text-align: left;
+padding-top: 20px;
+padding-left: 20px;
+border: 1px solid #8B4726;
+color: #E0FFFF;
+font-size: 20px;
+margin-top: 2px;
+}
+
+
+.btnremove{
+
+margin-left: 200px;
+
+
+}

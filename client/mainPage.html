@@ -1,0 +1,16 @@
+<template name='mainpage'>
+    
+    <p class="usertitle">User Collection:</p>
+	<ul>
+		{{#each cusers}}
+        <li class="textbox">
+        	The Name:{{name}}, The Age:{{age}}
+        	 <button class="btnremove">remove</button>
+        	 <button class="update">update</button>
+        </li>
+        {{/each}}
+	</ul>
+
+
+
+</template>
